@@ -404,7 +404,7 @@ https://player-api.new.livestream.com/accounts/8069167/events/10091958/videos/22
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="ECUADOR", TC ec | HD
+#EXTINF:-1 group-title="ECUADOR", TC ECU | HD
 https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_JqAA9xjaMYK6dRybg5T_Y4LeVaM2Ra19MfDuElynXd)/dm/3/x7wijay/s/live-0.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="COSTA RICA", Multizonas tv | HD
