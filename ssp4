@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC EC
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOoEVU95fl-kgKZcm0OPP3e9atYM3LraL3kEM9ksGThv9)/dm/3/x84cxl0/s/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC EC 4 HORAS
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtblCkDxsMbqDUHDI9M5nGjE5WgowvwiIsBfP7-I7w_v)/dm/3/x84cxl0/s/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/34bbb9b2-6561-4671-9b15-8d7db8a09983/live.isml/34bbb9b2-6561-4671-9b15-8d7db8a09983.m3u8
@@ -387,7 +387,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-129 tvg-logo="https://i.imgur.com/vIFRrCq.png", Canal Plus Guatemala | SD
 https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
-#EXTINF:-130 tvg-id="(sin tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://lc.cx/OwDNh9" group-title="MEXICO",Jalisco TV
+#EXTINF:-130 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="MEXICO",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-131 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" grupo -title="DOCUMENTALES", Animal Planet
@@ -537,8 +537,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-179 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 
-#EXTINF:-180 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", Canal CNC Medellin | SD
-https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8
+#EXTINF:-180 tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="COLOMBIA", Mi Gente TV | SD
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 #EXTINF:-181 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="ECUADOR", Wuan plus | HD
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
@@ -567,8 +567,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-189 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
 https://vcp2.myplaytv.com/telesol/telesol/chunklist_w794515700.m3u8
 
-#EXTINF:-190 tvg-logo="https://play-lh.googleusercontent.com/fJ6TKmzdPANhI24NH8ULV8pbEsBhWPT3e6O6xchiQmsnlWLhViE904dJd5rvfZUwwQ" group-title="COLOMBIA", Canal-14 Codazzi TV | SD
-https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
+#EXTINF:-190 tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="COLOMBIA", Televisión Multicanal | SD
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 
 #EXTINF:-191 group-title="CINE Y SERIES" , BUTACA TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2b-64f0dad7c2bc9b9001d46ea8.m3u8?includeAllStreams=1&amp;X-Plex-Product=Plex+Mediaverse&amp;X-Plex-Token=qRDByN2M3e4XDxqvLeqs
@@ -643,8 +643,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-214 tvg-name="Weather Channel" tvg-logo="https://canalesdominicanos.live/template/images/radios/cibaena-tv-radio.png" group-title="REPUBLICA DOMINICANA",Cibaeña TV
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-215 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png/revision/latest/scale-to-width-down/1200?cb=20210214155846&path-prefix=es" group-title="ECUADOR", OROMAR EC
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-215 tvg-logo="https://th.bing.com/th/id/OIP.wMSqQ1kq7ngkhSNYBaenpQHaEK?rs=1&pid=ImgDetMain" group-title="DEPORTES", EDGE sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-216 tvg-name="RCC TV" tvg-logo="https://1.bp.blogspot.com/-TFCLCbyzLJg/YTX7J_MP0VI/AAAAAAAAQYU/NmDse7rND7MbfbhJvdimrzRhZ8HAFBXGgCLcBGAsYHQ/w172-h172/RCC%2BTV%2BEn%2Bvivo.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
@@ -664,8 +664,8 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-221 group-title="CINE Y SERIES" , KONFU MOVIES
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
 
-#EXTINF:-222 group-title="COLOMBIA" tvg-logo="https://cdn.m3u.cl/logo/1285_La_Despechada_TV.png",LA DESPECHADA
-https://servidordevideo.com:3077/hybrid/play.m3u8
+#EXTINF:-222 group-title="COLOMBIA" tvg-logo="https://i.imgur.com/ybSn8tp.png",Citytv Bogotá
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 
 #EXTINF:-223 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="ARGENTINA", MULTIVISION CANAL 9 | SD
 https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
@@ -867,8 +867,8 @@ https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
 #EXTINF:-290 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" group-title="CINE Y SERIES", TVS RETRO | SD
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-291 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/psc.jpg" group-title="COLOMBIA", PSC TV
-https://stmv4.voxtvhd.com.br/psctv/psctv/chunklist_w1790667369.m3u8
+#EXTINF:-291 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="COLOMBIA", Son Latino
+https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
 
 #EXTINF:-292 tvg-logo="https://horrorsocietycom.stage.site/wp-content/uploads/2014/04/1622211_263077723861518_1321068019_n.jpg" group-title="CINE Y SERIES", TERROR TV | SD
 https://tv.streaming-chile.com:1936/8140/8140/chunklist_w2077926139.m3u8
@@ -904,7 +904,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-303 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf12839a5db76743a7c2448b9bd68337.webp" group-title="VENEZUELA" , Novelismas Tv HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1yn-&amp;did=061513a5c89470bb73b80acf56298707&amp;app_bundle=com.canela.ott&amp;app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&amp;app_domain=canela.tv&amp;app_name=canelatv&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=canelatv&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=en&amp;consent=1&amp;gdpr=0&amp;site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1668800459&amp;id=29260&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;deliveryProfileId=23762&amp;sign=ktwR1dR1KmcCwcOFlOK5RDzUWH8EGwWExRFSUQ6%2F7K8%3D
+https://vcp.myplaytv.com/mdatv/mdatv/.m3u8
 
 #EXTINF:-304 group-title="CINE Y SERIES" , PlUTO ACCION SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7049fb30-f0dc-11ec-991f-0242ac110003&sid=7049fb30-f0dc-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MDQ5ZmIzMC1mMGRjLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4NzgxMCwianRpIjoiMGJmNGMwMWQtYTVjMS00YmFkLTg4YzQtOTBhMTkzNGQ2NjJkIiwiaWF0IjoxNjU1NzU5MDEwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.qUlJJg03pqctHnPJwifhTh-tiq5Y8cuEX-zR4zGmDCw&masterJWTPassthrough=true
@@ -912,7 +912,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009
 #EXTINF:-305 group-title="CINE Y SERIES" , Pluto Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=4845bff9-f0dd-11ec-817d-0242ac110003&sid=4845bff9-f0dd-11ec-817d-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ODQ1YmZmOS1mMGRkLTExZWMtODE3ZC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODE3MywianRpIjoiNGVjMTk2NmEtZjQ3Mi00MGZiLWI4ZmYtZWEwZTZmMmNlZDdkIiwiaWF0IjoxNjU1NzU5MzczLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.wFMlybh5cvb5J0SMSEti-_5v66-TYo8PkL5ph3HUIZI&masterJWTPassthrough=true
 
-#EXTINF:-306 tvg-logo="https://w2-venevision-com.s3.amazonaws.com/public/media/images/logo-venevision-0-1-0c3495.jpg" group-title="VENEZUELA", VENEVISION
+#EXTINF:-306 group-title="VENEZUELA", MDA TV
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/4470400.m3u8
 
 #EXTINF:-307tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwOBDWH2tDgsJ1khu9A3dgetOLhME9ccK_Q&usqp=CAU" group-title="VENEZUELA", MASTALK TV
@@ -927,6 +927,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-309 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg" group-title="DEPORTES" , DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
+
+#EXTINF:-310 group-title="DEPORTES", CLARO SPORTS
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId=&appName=web&appVersion=7.9.0-a9cca6b89aea4dc0998b92a51989d2adb9a9025d&app_name=web&clientDeviceType=0&clientID=baa0f57a-c45d-4c84-a3a5-88550691cdbd&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=baa0f57a-c45d-4c84-a3a5-88550691cdbd&deviceLat=-0.3000&deviceLon=-76.8600&deviceMake=edge-chromium&deviceModel=web&deviceType=web&deviceVersion=120.0.0&marketingRegion=VE&serverSideAds=false&sessionID=99d841ed-b23a-11ee-b294-8218956d0642&sid=99d841ed-b23a-11ee-b294-8218956d0642&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjAxYjU3MTJlLTBmZDMtNGQxMS1iMmFlLTcxOTkyNzkwZDljZCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5OWQ4NDFlZC1iMjNhLTExZWUtYjI5NC04MjE4OTU2ZDA2NDIiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiTGEgSm95YSBEZSBMb3MgU2FjaGFzIiwicG9zdGFsQ29kZSI6IjIyMDEwMSIsImNvdW50cnkiOiJFQyIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0wLjMwMDAwMDAxMTkyMDkyODk2LCJkZXZpY2VMb24iOi03Ni44NjAwMDA2MTAzNTE1NiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTIwLjAuMCIsImRldmljZU1ha2UiOiJlZGdlLWNocm9taXVtIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjcuOS4wLWE5Y2NhNmI4OWFlYTRkYzA5OThiOTJhNTE5ODlkMmFkYjlhOTAyNWQiLCJjbGllbnRJRCI6ImJhYTBmNTdhLWM0NWQtNGM4NC1hM2E1LTg4NTUwNjkxY2RiZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0d1YXlhcXVpbCIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImJhYTBmNTdhLWM0NWQtNGM4NC1hM2E1LTg4NTUwNjkxY2RiZCIsImZ3VmNJRDJDb3BwYSI6ImJhYTBmNTdhLWM0NWQtNGM4NC1hM2E1LTg4NTUwNjkxY2RiZCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYmFhMGY1N2EtYzQ1ZC00Yzg0LWEzYTUtODg1NTA2OTFjZGJkIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAwMyJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlltRmhNR1kxTjJFdFl6UTFaQzAwWXpnMExXRXpZVFV0T0RnMU5UQTJPVEZqWkdKayIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3MDUyNTM5MjUsImlhdCI6MTcwNTE2NzUyNSwianRpIjoiZTIyYzI2YjEtY2QyYy00OTU3LWIxYWQtYzMyY2MxYWY1ODNhIn0.xyDZE2s0c_jKAcqGl-LrCPBUQDhWyNz-eB495EoyK0Y&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEEoubFN-FQJLtAnH6fEH5S_sW7LkQASws4HfwPr2IRcVbO6Q5jd7kOmTu4nm4T7gEvWM8-yMZQZp6nbLTKmaigW6Ttxux4K8rfler5aePbETNa9Afpcgfm0SCbDVYJL0oiZdNwBqWWJnUgcOJkbRgu4wpxKkK6BPZItBipI31EhoO8MXHqkRDzF4sPQtFxOOR5QQ0M806yla15IjIqOXUCWKPwZXFQ4oYLxBRY8UhzN_BXuqdxoYMaFIGJmJOl-FG0D5VF1wEFMGW3Ahnt7wAb1XLlcri0al0r1h5fCIDfKjsva1ea6Gyzqg9gXVUS66yu2km5SzW7ywcIAmcL0GwXX3clOFpc59XtyGpGJCzJDpo4vewcqgqe0pv5wfw_KhrG4DMHyHQDtOvQxR7ZyaTeP5Gxg8YkBS_p65wCWJZAb9am_sSgwzgT0rrWBg6WDUu-Ph6juYi6r5pf6wrMXI-uzy1d2iuS4pn1HopkCscqu_D2xOaIj2-DjWEfKRj8gOpbaG-DWry-PIKA24ly0ZovTxjcD6U378v8fcAC-IMTx2kzDFpDE09iGbBM0nU96MOGCBq3oi9gW78HCHAQHq_ctmiXmo_LaMgdcsOtQcz0Eo_aWpwCBssf8-72jvSnvhdEoPZQ_j0-R_hN8apmngLkwkvRgCaNpPM3Rf9hKawEb2nx_hD_RbbjwDl46NQ3LQcxF6LrPgLM0l-rs3AU1ExQO4EviHvNxTPIOYJCmyP5EAm8aiYSvDun7n3KXikA0B5H1aQrFiQoP74g2MXsN3prpG2yQmg6GEjdcA_D__iRoRcheN3DY8TkZrnH2EyrmVgFx9L6Hqwsr2LKKnNEHL3grlBb3z6qQRu9MwQmzFuNIbDTQ4zLwsUGV0EXKdvEK7GYulxF7qq2LNlhf6SePJ99M0dOKOJ7xcFnDlk98qC9kghPnnTJXPJ5jTN3IYIDVSJiB9ZDINyuCKgR0ur_-bzOfmVUcn3hCAQDaiRGxquIcqko6Iu4Pynipe5z9h0jMJYpUP8PNlgdDV6MqGiJEnC-okVlsv6O1wb9dX7wdPojIt81AXHK-dI2UMiJwmo3BqXEfNHe6tlvjNIzt_tdLQknlKRf_9h1zOW5y3yujb6x-UBj4DVzgYL2W3ehJmLG7IObR_HLUU5WBRZlyr2tYN1rUTT4_PklZKRJcGGCimuPW5c6-3l7w6q7p5ca0uKwiXE1L5t_-58dlTzCd7KzUBwokfMDSKdhBrbm8WK_kxxOPP3zfGKpu-OQHE4ATgh9p_5P6_n_xTSW_fNc_3JwAyqBmbxaUePTv7VG7_wu29l8wQYYXK1Ibx2B793o1kHhFj1MEsNoxiK4zg2Nt6kWjCreL-FxGA.&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22c6219b54-6ee9-40e4-9921-f6b606fdf1d2%22%2Csu&profilesFromStream=true
 
 #EXTINF:-1 group-title="ECUADOR", TV AUSTRO
 https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
@@ -1177,7 +1180,7 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lc.cx/ZZpHPd" group-title="MEXICO", AZTC UNO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="MEXICO", AZTC UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a024c9bc44f4adf14389bbfeab689cd2.webp" group-title="MEXICO", BOOMBERG MX
@@ -1498,7 +1501,7 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="SERVIDOR 2", GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://librefutboltv.com/esp/img/logo-canal/GolTV.webp" group-title="SERVIDOR 2", Goltv Peru 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="SERVIDOR 2", Goltv Peru 
 http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="SERVIDOR 2", Directv 
@@ -1585,7 +1588,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-87 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="SERVIDOR 2", BeinSports Ñ Extra 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein Sports 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports
 http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein SPORTS 
@@ -1644,6 +1647,192 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
+
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",Rebel moon 
+http://208.88.245.85/nuevo/rebelmoon.p1.lanina.de.fuego.dual2023.mkv
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aJg7z3AVwBakEUDdJaah5QyebXn.jpg",La familia claus 3 
+http://208.88.245.85/nuevo/la.familia.claus3.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e85UDGmD9HmKcS0BOgoha029bkK.jpg",Su único hijo 
+http://208.88.245.85/nuevo/su.unico.hijo.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mgjRbhmHq3n1xqjLPzMjdZzG4it.jpg",Patos 
+http://208.88.245.85/nuevo/patos.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",Aquaman el reino perdido 
+http://208.88.245.85/nuevo/aquaman.y.el.reyno.perdido.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//to0HRDQTk7ZceEjehm6TS9dNHqf.jpg",Ella y el elfo 
+http://208.88.245.85/nuevo/elia.y.el.elfo.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",Plan familiar 
+http://208.88.245.85/nuevo/plan.familiar.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",Chicken run el origen de los nugets 
+http://208.88.245.85/nuevo/chickenrun.origen.nugets.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",Heróico 
+http://208.88.245.85/nuevo/heroico.latino.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",Los juegos del hambre 5 
+http://208.88.245.85/nuevo/los.juegos.del.hambre.5.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",El conejo de peluche 
+http://208.88.245.85/nuevo/el.conejo.de.peluche.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pWvHS914vuVYGSjt0NRG7LFDYa7.jpg",El bufón 
+http://208.88.245.85/nuevo/el.bufon.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atras 
+http://208.88.245.85/nuevo/dejar.el.mundo.atras.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg",Santa mi amor 
+http://208.88.245.85/nuevo/santa.mi.amor.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",Wonka 
+http://208.88.245.85/nuevo/wonka.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/M5G1Y5c.jpeg",Una navidad excandalosa 
+http://208.88.245.85/nuevo/una.navidad.excandalosa.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",La calle de la navidad 
+http://208.88.245.85/nuevo/la.calle.dela.navidad.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIpn96a6QyXLEDydbTg7ciGcncs.jpg",Viaje todo robado 
+http://208.88.245.85/nuevo/viaje.todo.robado.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",Los asesinos de la luna 
+http://208.88.245.85/nuevo/las.asesinos.de.la.luna.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/E6AZ5LD.jpeg",Sobreviviendo a mis XV 
+http://208.88.245.85/nuevo/sobreviviendo.misxv.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rCCrG4swkxgFZflup56sx6ymk5i.jpg",Wish
+http://208.88.245.85/nuevo/wish.2023.dual.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//tOp2zFXEfctumVbZFRFbBpZl6uB.jpg",Mejor navidad imposible 
+http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//AjAElsEROAhnRLFzob8eqTfvlN7.jpg",Elena sabe 
+http://208.88.245.85/nuevo/elena.sabe.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos una navidad muy mala 
+http://208.88.245.85/nuevo/los.tipos.malos.una.navidad.muymala.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fnRUCA0fjEb3kuIaTGogL7425IC.jpg",Familia revuelta 
+http://208.88.245.85/nuevo/familia.revuelta.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//y4YMYsGSMwu8e985g0Zbumvqxld.jpg",THE MARVELS 
+http://208.88.245.85/nuevo/the.marvels.dual2023.mkv
+ 
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",La magia de la navidad 
+http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",Leo 
+http://208.88.245.85/nuevo/leo.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",Genie 
+http://208.88.245.85/nuevo/genie.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9sA8HGHvbm9CqIJZfFmFZxgsOH6.jpg",Welcome al norte 
+http://208.88.245.85/nuevo/wellcome.al.norte.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Af6hIxZhKzUNr02TZwethdrk5rP.jpg",Como matar a mamá 
+http://208.88.245.85/nuevo/como.matar.a.mama.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//oXrlGiQ6ghjN25rMPmlKeGe0gNm.jpg",Higuita el camino del escorpion 
+http://208.88.245.81/nuevo/higuita.el.camino.del.escorpion.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ApRW9CPK83fF4KCXPR00KCzXOjL.jpg",El panadero 
+http://208.88.245.81/nuevo/el.panadero.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7Jvsry47JJQruuezjU2X1Z6J77.jpg",El asesino 
+http://208.88.245.81/nuevo/el.asesino.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",The creator resistence 
+http://208.88.245.85/nuevo/the.creator.resistencia.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eO4nzd4p7lKxUFQtQF2qui8gGNf.jpg",El sabor de la navidad 
+http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg",Nyad 
+http://208.88.245.81/nuevo/nyad.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8atmQTJJUqA1eMW6dDSrb1TNxiX.jpg",El asesinato de gaby petito 
+http://208.88.245.81/nuevo/el.asesinato.de.gabby.petito.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",South park 
+http://208.88.245.81/nuevo/southpark.entrando.al.panderverso.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1utWajLPvv1R9ZwkD98s2ZEngS.jpg",Sly 
+http://208.88.245.81/nuevo/sly.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",Trolls 3 
+http://208.88.245.81/nuevo/trolls3.todos.juntos.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5Gz3k1TqeAxL5M47XZzjltxQrMb.jpg",Mickey y sus amigos dulce o truco 
+http://208.88.245.85/nuevo/mickey.y.sus.amigos.dulce.o.truco.dual.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",Temporada de huracanes 
+http://208.88.245.85/nuevo/temporada.de.huracanes.lat.2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//rDzig50dj7VpLwJ7SThbamETK1G.jpg",Lego Avengers código rojo 
+http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1Xgjl22MkAZQUavvOeBqRehrvqO.jpg",Misterio en venecia 
+http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv 
+
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//htJb5GxG56UfvqBTNGo84DVcb33.jpg",María la diva eterna 
+http://208.88.245.85/nuevo/maria.la.diva.eterna.lat2023.mkv 
 
 #EXTINF:-473 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
@@ -4335,196 +4524,22 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",Hazme el favor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
- 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aJg7z3AVwBakEUDdJaah5QyebXn.jpg",La familia claus 3 
-http://208.88.245.85/nuevo/la.familia.claus3.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/e85UDGmD9HmKcS0BOgoha029bkK.jpg",Su único hijo 
-http://208.88.245.85/nuevo/su.unico.hijo.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg",Rebel moon 
-http://208.88.245.85/nuevo/rebelmoon.p1.lanina.de.fuego.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mgjRbhmHq3n1xqjLPzMjdZzG4it.jpg",Patos 
-http://208.88.245.85/nuevo/patos.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",Aquaman el reino perdido 
-http://208.88.245.85/nuevo/aquaman.y.el.reyno.perdido.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//to0HRDQTk7ZceEjehm6TS9dNHqf.jpg",Ella y el elfo 
-http://208.88.245.85/nuevo/elia.y.el.elfo.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",Plan familiar 
-http://208.88.245.85/nuevo/plan.familiar.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//exNtEY8QUuQh9e23wSQjkPxKIU3.jpg",Chicken run el origen de los nugets 
-http://208.88.245.85/nuevo/chickenrun.origen.nugets.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tRD18JW9iKqmwkQKvzPYDQetRoI.jpg",Heróico 
-http://208.88.245.85/nuevo/heroico.latino.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",Los juegos del hambre 5 
-http://208.88.245.85/nuevo/los.juegos.del.hambre.5.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg",El conejo de peluche 
-http://208.88.245.85/nuevo/el.conejo.de.peluche.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pWvHS914vuVYGSjt0NRG7LFDYa7.jpg",El bufón 
-http://208.88.245.85/nuevo/el.bufon.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atras 
-http://208.88.245.85/nuevo/dejar.el.mundo.atras.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg",Santa mi amor 
-http://208.88.245.85/nuevo/santa.mi.amor.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",Wonka 
-http://208.88.245.85/nuevo/wonka.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/M5G1Y5c.jpeg",Una navidad excandalosa 
-http://208.88.245.85/nuevo/una.navidad.excandalosa.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",La calle de la navidad 
-http://208.88.245.85/nuevo/la.calle.dela.navidad.dual2023.mkv 
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIpn96a6QyXLEDydbTg7ciGcncs.jpg",Viaje todo robado 
-http://208.88.245.85/nuevo/viaje.todo.robado.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",Los asesinos de la luna 
-http://208.88.245.85/nuevo/las.asesinos.de.la.luna.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://i.imgur.com/E6AZ5LD.jpeg",Sobreviviendo a mis XV 
-http://208.88.245.85/nuevo/sobreviviendo.misxv.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rCCrG4swkxgFZflup56sx6ymk5i.jpg",Wish
-http://208.88.245.85/nuevo/wish.2023.dual.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//tOp2zFXEfctumVbZFRFbBpZl6uB.jpg",Mejor navidad imposible 
-http://208.88.245.85/nuevo/mejor.navidad.imposible.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//AjAElsEROAhnRLFzob8eqTfvlN7.jpg",Elena sabe 
-http://208.88.245.85/nuevo/elena.sabe.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos una navidad muy mala 
-http://208.88.245.85/nuevo/los.tipos.malos.una.navidad.muymala.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fnRUCA0fjEb3kuIaTGogL7425IC.jpg",Familia revuelta 
-http://208.88.245.85/nuevo/familia.revuelta.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//y4YMYsGSMwu8e985g0Zbumvqxld.jpg",THE MARVELS 
-http://208.88.245.85/nuevo/the.marvels.dual2023.mkv
- 
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",La magia de la navidad 
-http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",Leo 
-http://208.88.245.85/nuevo/leo.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg",Genie 
-http://208.88.245.85/nuevo/genie.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9sA8HGHvbm9CqIJZfFmFZxgsOH6.jpg",Welcome al norte 
-http://208.88.245.85/nuevo/wellcome.al.norte.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Af6hIxZhKzUNr02TZwethdrk5rP.jpg",Como matar a mamá 
-http://208.88.245.85/nuevo/como.matar.a.mama.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//oXrlGiQ6ghjN25rMPmlKeGe0gNm.jpg",Higuita el camino del escorpion 
-http://208.88.245.81/nuevo/higuita.el.camino.del.escorpion.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ApRW9CPK83fF4KCXPR00KCzXOjL.jpg",El panadero 
-http://208.88.245.81/nuevo/el.panadero.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7Jvsry47JJQruuezjU2X1Z6J77.jpg",El asesino 
-http://208.88.245.81/nuevo/el.asesino.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",The creator resistence 
-http://208.88.245.85/nuevo/the.creator.resistencia.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eO4nzd4p7lKxUFQtQF2qui8gGNf.jpg",El sabor de la navidad 
-http://208.88.245.85/nuevo/el.sabor.dla.navidad.latino2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//eh1IjDZfDRjgv5NzMBkjN1GzKgy.jpg",Nyad 
-http://208.88.245.81/nuevo/nyad.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8atmQTJJUqA1eMW6dDSrb1TNxiX.jpg",El asesinato de gaby petito 
-http://208.88.245.81/nuevo/el.asesinato.de.gabby.petito.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//18IsRVfs5MkkTcqTGlUAnka6sCh.jpg",South park 
-http://208.88.245.81/nuevo/southpark.entrando.al.panderverso.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1utWajLPvv1R9ZwkD98s2ZEngS.jpg",Sly 
-http://208.88.245.81/nuevo/sly.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lxoPJR6eR5nd6nHSKIkEIV4FQWe.jpg",Trolls 3 
-http://208.88.245.81/nuevo/trolls3.todos.juntos.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5Gz3k1TqeAxL5M47XZzjltxQrMb.jpg",Mickey y sus amigos dulce o truco 
-http://208.88.245.85/nuevo/mickey.y.sus.amigos.dulce.o.truco.dual.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//DyCTyS7NdbGCp6zWoAkVGM8p9j.jpg",Temporada de huracanes 
-http://208.88.245.85/nuevo/temporada.de.huracanes.lat.2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//rDzig50dj7VpLwJ7SThbamETK1G.jpg",Lego Avengers código rojo 
-http://208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis " type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1Xgjl22MkAZQUavvOeBqRehrvqO.jpg",Misterio en venecia 
-http://208.88.245.85/nuevo/misterio.en.venecia.dual2023.mkv 
-
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
-#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//htJb5GxG56UfvqBTNGo84DVcb33.jpg",María la diva eterna 
-http://208.88.245.85/nuevo/maria.la.diva.eterna.lat2023.mkv
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg" group-title="Pelis 3" type="movie" ,Street Fighter II - La Película http://archive.org/download/w-17-fl-1-x/StrII.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zImw7IVg8dxPkqMfT0L33sdsIHC.jpg" group-title="Pelis 3" type="movie" ,STUART LITTLE 3 http://archive.org/download/wunsdr25fs/wunsdr25fs.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hBcY0fE9pfXzvVaY4GKarweriG2.jpg" group-title="Pelis 3" type="movie" ,SUEÑO DE FUGA http://archive.org/download/sdf1m21lposk13o24lpo4/SdF1m21lpoSK13O24lPO4.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg" group-title="Pelis 3" type="movie" ,SULLY: HAZAÑA EN EL HUDSON http://archive.org/download/566783i-8su-117637h-4z-4n-466673nn-3lhud-0njuggs/566783i8su117637h4z4%C3%B1466673nn3lhud0njuggs.mp4 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,SUMMER WARDS http://archive.org/download/trupo8jh3ds/trupo8jh3ds.mp4 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ1rqmE4eIhPbUCr7sn2Pw2wwGW.jpg" group-title="Pelis 3" type="movie" ,Street Fighter II - La Película 
+http://archive.org/download/w-17-fl-1-x/StrII.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zImw7IVg8dxPkqMfT0L33sdsIHC.jpg" group-title="Pelis 3" type="movie" ,STUART LITTLE 3 
+http://archive.org/download/wunsdr25fs/wunsdr25fs.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hBcY0fE9pfXzvVaY4GKarweriG2.jpg" group-title="Pelis 3" type="movie" ,SUEÑO DE FUGA 
+http://archive.org/download/sdf1m21lposk13o24lpo4/SdF1m21lpoSK13O24lPO4.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r09ivJ1GGh5WArqRViRYDQLrTVG.jpg" group-title="Pelis 3" type="movie" ,SULLY: HAZAÑA EN EL HUDSON 
+http://archive.org/download/566783i-8su-117637h-4z-4n-466673nn-3lhud-0njuggs/566783i8su117637h4z4%C3%B1466673nn3lhud0njuggs.mp4 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="Pelis 3" type="movie" ,SUMMER WARDS 
+http://archive.org/download/trupo8jh3ds/trupo8jh3ds.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg" group-title="Pelis 3" type="movie" ,SUPER COOL 
 http://archive.org/download/plkbhgfhnhfssksklkzxjxks/plkbhgfhnhfssksklkzxjxks.mp4 
